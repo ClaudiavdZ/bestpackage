@@ -1,0 +1,407 @@
+"year" "country" "flu" "infant_mortality" "life_expectancy" "fertility" "population" "gdp" "continent" "region" "dengue"
+"1" 2002 "Argentina" NA 17.1 74.3 2.38 37889443 242076212334 "Americas" "South America" NA
+"2" 2003 "Argentina" NA 16.6 74.5 2.34 38309475 263468585945 "Americas" "South America" NA
+"3" 2004 "Argentina" 8843 16 75 2.31 38728778 287258675094 "Americas" "South America" 1.533
+"4" 2005 "Argentina" 8627 15.3 75.3 2.29 39145491 313626005874 "Americas" "South America" 1.035
+"5" 2006 "Argentina" 8966 14.6 75.3 2.27 39558750 340177780212 "Americas" "South America" 1.007
+"6" 2007 "Argentina" 10267 14.1 75.2 2.25 39969903 369614509411 "Americas" "South America" 5.569
+"7" 2008 "Argentina" 9299 13.7 75.4 2.24 40381860 394594682115 "Americas" "South America" 1.462
+"8" 2009 "Argentina" 7952 13.4 75.6 2.23 40798641 397949689763 "Americas" "South America" 16.739
+"9" 2010 "Argentina" 6946 13 75.8 2.22 41222875 434405530244 "Americas" "South America" 6.621
+"10" 2011 "Argentina" 5541 12.7 76 2.2 41655616 472935255184 "Americas" "South America" 3.186
+"11" 2012 "Argentina" 6155 12.3 76.1 2.19 42095224 NA "Americas" "South America" 2.082
+"12" 2013 "Argentina" 6529 11.9 76.2 2.18 42538304 NA "Americas" "South America" 4.263
+"13" 2014 "Argentina" 7073 11.5 76.3 2.16 42980026 NA "Americas" "South America" 2.767
+"14" 2015 "Argentina" 4841 11.1 76.5 2.15 43416755 NA "Americas" "South America" 2.118
+"15" 2002 "Australia" NA 5 80.3 1.76 19514385 442135393399 "Oceania" "Australia and New Zealand" NA
+"16" 2003 "Australia" NA 4.9 80.6 1.75 19735255 456603230864 "Oceania" "Australia and New Zealand" NA
+"17" 2004 "Australia" NA 4.9 80.9 1.76 19985475 475578723953 "Oceania" "Australia and New Zealand" NA
+"18" 2005 "Australia" NA 4.8 81.2 1.79 20274282 489651768692 "Oceania" "Australia and New Zealand" NA
+"19" 2006 "Australia" 18263 4.7 81.4 1.82 20606228 504739869397 "Oceania" "Australia and New Zealand" NA
+"20" 2007 "Australia" 29574 4.5 81.5 1.92 20975949 522729696645 "Oceania" "Australia and New Zealand" NA
+"21" 2008 "Australia" 25091 4.4 81.6 1.96 21370348 542761040949 "Oceania" "Australia and New Zealand" NA
+"22" 2009 "Australia" 22796 4.2 81.8 1.9 21770690 550622241459 "Oceania" "Australia and New Zealand" NA
+"23" 2010 "Australia" 12571 4.1 82 1.89 22162863 563049439185 "Oceania" "Australia and New Zealand" NA
+"24" 2011 "Australia" 13138 3.8 82.2 1.88 22542371 573453982173 "Oceania" "Australia and New Zealand" NA
+"25" 2012 "Australia" 27452 3.6 82.4 1.89 22911375 NA "Oceania" "Australia and New Zealand" NA
+"26" 2013 "Australia" 19071 3.4 82.4 1.88 23270465 NA "Oceania" "Australia and New Zealand" NA
+"27" 2014 "Australia" 30705 3.2 82.3 1.88 23622353 NA "Oceania" "Australia and New Zealand" NA
+"28" 2015 "Australia" 20355 3 82.3 1.88 23968973 NA "Oceania" "Australia and New Zealand" NA
+"29" 2002 "Austria" NA 4.4 78.8 1.39 8114698 196998621885 "Europe" "Western Europe" NA
+"30" 2003 "Austria" NA 4.3 79 1.38 8155466 198704472152 "Europe" "Western Europe" NA
+"31" 2004 "Austria" 32820 4.1 79.4 1.42 8196624 203850083132 "Europe" "Western Europe" NA
+"32" 2005 "Austria" 41502 4 79.5 1.41 8234858 208743854863 "Europe" "Western Europe" NA
+"33" 2006 "Austria" 36142 4 80 1.41 8269372 216404316585 "Europe" "Western Europe" NA
+"34" 2007 "Austria" 40517 3.8 80.1 1.38 8301290 224424149682 "Europe" "Western Europe" NA
+"35" 2008 "Austria" 43065 3.8 80.4 1.41 8331465 227557455520 "Europe" "Western Europe" NA
+"36" 2009 "Austria" 47117 3.7 80.3 1.39 8361362 218887605293 "Europe" "Western Europe" NA
+"37" 2010 "Austria" 32008 3.6 80.5 1.44 8391986 223954137424 "Europe" "Western Europe" NA
+"38" 2011 "Austria" 34888 3.4 80.7 1.44 8423559 230913313559 "Europe" "Western Europe" NA
+"39" 2012 "Austria" 40088 3.3 80.9 1.46 8455477 NA "Europe" "Western Europe" NA
+"40" 2013 "Austria" 50229 3.2 81.1 1.47 8486962 NA "Europe" "Western Europe" NA
+"41" 2014 "Austria" 51635 3 81.2 1.48 8516916 NA "Europe" "Western Europe" NA
+"42" 2015 "Austria" 40143 2.9 81.3 1.5 8544586 NA "Europe" "Western Europe" NA
+"43" 2002 "Belgium" NA 4.4 78.2 1.68 10364613 237741668285 "Europe" "Western Europe" NA
+"44" 2003 "Belgium" NA 4.2 78.5 1.7 10426169 239659286074 "Europe" "Western Europe" NA
+"45" 2004 "Belgium" 2876 4.2 79 1.73 10492643 247490005974 "Europe" "Western Europe" NA
+"46" 2005 "Belgium" 6472 4.1 79.1 1.75 10561436 251845091555 "Europe" "Western Europe" NA
+"47" 2006 "Belgium" 4441 4 79.5 1.78 10632032 258690550017 "Europe" "Western Europe" NA
+"48" 2007 "Belgium" 6305 3.9 79.5 1.8 10704830 266243709886 "Europe" "Western Europe" NA
+"49" 2008 "Belgium" 4696 3.8 79.6 1.82 10779155 268825324878 "Europe" "Western Europe" NA
+"50" 2009 "Belgium" 10320 3.7 79.8 1.83 10854388 261295933962 "Europe" "Western Europe" NA
+"51" 2010 "Belgium" 2733 3.6 80.1 1.84 10929978 267143096398 "Europe" "Western Europe" NA
+"52" 2011 "Belgium" 4477 3.5 80.2 1.85 11005175 272271056321 "Europe" "Western Europe" NA
+"53" 2012 "Belgium" 4758 3.5 80.3 1.85 11079521 NA "Europe" "Western Europe" NA
+"54" 2013 "Belgium" 9622 3.4 80.4 1.85 11153122 NA "Europe" "Western Europe" NA
+"55" 2014 "Belgium" 5475 3.4 80.5 1.86 11226322 NA "Europe" "Western Europe" NA
+"56" 2015 "Belgium" 11111 3.3 80.5 1.86 11299192 NA "Europe" "Western Europe" NA
+"57" 2002 "Bolivia" NA 53.7 68.7 3.98 8653343 8751510220 "Americas" "South America" 0.101
+"58" 2003 "Bolivia" NA 51.2 69.3 3.9 8810420 8988793402 "Americas" "South America" 3.945
+"59" 2004 "Bolivia" 22110 48.8 69.8 3.81 8967740 9363922319 "Americas" "South America" 1.465
+"60" 2005 "Bolivia" 20260 46.6 70.2 3.72 9125405 9777941879 "Americas" "South America" 1.485
+"61" 2006 "Bolivia" 19668 44.4 70.6 3.63 9283345 10246990606 "Americas" "South America" 1.068
+"62" 2007 "Bolivia" 19312 42.2 70.9 3.55 9441482 10714702655 "Americas" "South America" 2.609
+"63" 2008 "Bolivia" 16526 40.2 71.2 3.48 9599916 11373495913 "Americas" "South America" 1.493
+"64" 2009 "Bolivia" 14516 38.4 71.6 3.41 9758799 11755304106 "Americas" "South America" 10.362
+"65" 2010 "Bolivia" 11752 36.8 71.8 3.36 9918245 12240412986 "Americas" "South America" 1.335
+"66" 2011 "Bolivia" 10859 35.3 72.1 3.31 10078238 12863340654 "Americas" "South America" 2.173
+"67" 2012 "Bolivia" 10035 34 72.4 3.26 10238762 NA "Americas" "South America" 1.513
+"68" 2013 "Bolivia" 9129 32.8 72.7 3.22 10399931 NA "Americas" "South America" 0.564
+"69" 2014 "Bolivia" 9065 31.7 72.9 3.18 10561887 NA "Americas" "South America" 0.91
+"70" 2015 "Bolivia" 6407 30.6 73.2 3.14 10724705 NA "Americas" "South America" 0.427
+"71" 2002 "Brazil" 174 24.3 71.4 2.26 181045592 670512665737 "Americas" "South America" 0.073
+"72" 2003 "Brazil" 12386 22.5 71.7 2.2 183627339 678217761979 "Americas" "South America" 4.344
+"73" 2004 "Brazil" 12964 21 72 2.14 186116363 716959543489 "Americas" "South America" 2.38
+"74" 2005 "Brazil" 13246 19.5 72.4 2.07 188479240 739613124999 "Americas" "South America" 2.688
+"75" 2006 "Brazil" 13964 18.2 72.7 2 190698241 768867489436 "Americas" "South America" 4.648
+"76" 2007 "Brazil" 13336 17.1 73 1.94 192784521 815703390474 "Americas" "South America" 7.943
+"77" 2008 "Brazil" 12637 16.2 73.2 1.9 194769696 857885609996 "Americas" "South America" 9.653
+"78" 2009 "Brazil" 10984 15.4 73.4 1.86 196701298 855069617297 "Americas" "South America" 8.211
+"79" 2010 "Brazil" 8970 14.8 73.6 1.84 198614208 919487274118 "Americas" "South America" 12.524
+"80" 2011 "Brazil" 8345 14.4 73.8 1.82 200517584 944612348874 "Americas" "South America" 8.807
+"81" 2012 "Brazil" 7685 14.3 74 1.81 202401584 NA "Americas" "South America" 5.534
+"82" 2013 "Brazil" 8676 14.3 74.1 1.8 204259377 NA "Americas" "South America" 8.31
+"83" 2014 "Brazil" 8855 14.4 74.3 1.79 206077898 NA "Americas" "South America" 6.818
+"84" 2015 "Brazil" 6603 14.6 74.4 1.78 207847528 NA "Americas" "South America" 11.705
+"85" 2002 "Bulgaria" NA 16.3 72.1 1.22 7869124 14064179291 "Europe" "Eastern Europe" NA
+"86" 2003 "Bulgaria" NA 15.5 72.3 1.25 7805041 14838464302 "Europe" "Eastern Europe" NA
+"87" 2004 "Bulgaria" NA 14.6 72.5 1.29 7742740 15839807530 "Europe" "Eastern Europe" NA
+"88" 2005 "Bulgaria" 41988 13.6 72.6 1.33 7682614 16846951092 "Europe" "Eastern Europe" NA
+"89" 2006 "Bulgaria" 46688 12.9 72.7 1.37 7624611 17952499282 "Europe" "Eastern Europe" NA
+"90" 2007 "Bulgaria" 42751 12.3 72.9 1.4 7568378 19101459236 "Europe" "Eastern Europe" NA
+"91" 2008 "Bulgaria" 35190 11.8 73.2 1.43 7513646 20285749709 "Europe" "Eastern Europe" NA
+"92" 2009 "Bulgaria" 37187 11.5 73.5 1.46 7460057 19170033475 "Europe" "Eastern Europe" NA
+"93" 2010 "Bulgaria" 23801 11.2 73.7 1.49 7407297 19246713609 "Europe" "Eastern Europe" NA
+"94" 2011 "Bulgaria" 25930 10.9 74.2 1.51 7355231 19573907740 "Europe" "Eastern Europe" NA
+"95" 2012 "Bulgaria" 16289 10.5 74.5 1.52 7303741 NA "Europe" "Eastern Europe" NA
+"96" 2013 "Bulgaria" 17955 10.1 74.6 1.54 7252539 NA "Europe" "Eastern Europe" NA
+"97" 2014 "Bulgaria" 25346 9.7 74.7 1.56 7201308 NA "Europe" "Eastern Europe" NA
+"98" 2015 "Bulgaria" 16569 9.3 74.8 1.57 7149787 NA "Europe" "Eastern Europe" NA
+"99" 2002 "Canada" NA 5.3 79.6 1.51 31288572 759428612127 "Americas" "Northern America" NA
+"100" 2003 "Canada" NA 5.2 79.8 1.54 31596593 773714028802 "Americas" "Northern America" NA
+"101" 2004 "Canada" 77828 5.2 80.1 1.55 31918582 797853728386 "Americas" "Northern America" NA
+"102" 2005 "Canada" 98859 5.3 80.2 1.57 32256333 821941389978 "Americas" "Northern America" NA
+"103" 2006 "Canada" 97598 5.2 80.5 1.61 32611436 845145064427 "Americas" "Northern America" NA
+"104" 2007 "Canada" 85821 5.1 80.6 1.66 32982275 863738436331 "Americas" "Northern America" NA
+"105" 2008 "Canada" 84826 5 80.8 1.68 33363256 869687235058 "Americas" "Northern America" NA
+"106" 2009 "Canada" 141118 5 81.1 1.67 33746559 845598914757 "Americas" "Northern America" NA
+"107" 2010 "Canada" 67855 4.9 81.3 1.63 34126173 872784483603 "Americas" "Northern America" NA
+"108" 2011 "Canada" 73778 4.7 81.6 1.61 34499905 894251850391 "Americas" "Northern America" NA
+"109" 2012 "Canada" 101581 4.7 81.6 1.66 34868151 NA "Americas" "Northern America" NA
+"110" 2013 "Canada" 104231 4.6 81.6 1.67 35230612 NA "Americas" "Northern America" NA
+"111" 2014 "Canada" 121388 4.4 81.7 1.68 35587793 NA "Americas" "Northern America" NA
+"112" 2015 "Canada" 68006 4.3 81.7 1.68 35939927 NA "Americas" "Northern America" NA
+"113" 2002 "Chile" NA 8.3 77.7 2.01 15544554 79448554863 "Americas" "South America" NA
+"114" 2003 "Chile" NA 8 77.8 1.99 15729268 82560485563 "Americas" "South America" NA
+"115" 2004 "Chile" 348 7.9 78 1.96 15913119 87548035975 "Americas" "South America" NA
+"116" 2005 "Chile" 261 7.7 78.2 1.94 16096571 91287855656 "Americas" "South America" NA
+"117" 2006 "Chile" 260 7.6 78.2 1.92 16279728 96486092629 "Americas" "South America" NA
+"118" 2007 "Chile" 558 7.6 78.3 1.9 16462701 101465571562 "Americas" "South America" NA
+"119" 2008 "Chile" 412 7.6 78.5 1.89 16645940 104806280194 "Americas" "South America" NA
+"120" 2009 "Chile" 1074 7.5 78.5 1.87 16829957 103720034589 "Americas" "South America" NA
+"121" 2010 "Chile" 848 7.6 78.5 1.86 17015048 110041983987 "Americas" "South America" NA
+"122" 2011 "Chile" 315 7.5 78.9 1.84 17201305 116631547327 "Americas" "South America" NA
+"123" 2012 "Chile" 696 7.4 79.1 1.83 17388437 NA "Americas" "South America" NA
+"124" 2013 "Chile" 1180 7.3 79.1 1.82 17575833 NA "Americas" "South America" NA
+"125" 2014 "Chile" 1075 7.2 79.2 1.81 17762647 NA "Americas" "South America" NA
+"126" 2015 "Chile" 431 7 79.4 1.8 17948141 NA "Americas" "South America" NA
+"127" 2002 "France" NA 4.2 79.4 1.87 60075783 1363229017959 "Europe" "Western Europe" NA
+"128" 2003 "France" NA 4 79.6 1.89 60464857 1375491323088 "Europe" "Western Europe" NA
+"129" 2004 "France" 1622 3.9 80.2 1.92 60858654 1410493938384 "Europe" "Western Europe" NA
+"130" 2005 "France" 5658 3.8 80.4 1.94 61241700 1436256423650 "Europe" "Western Europe" NA
+"131" 2006 "France" 3075 3.7 80.7 1.95 61609991 1471687515757 "Europe" "Western Europe" NA
+"132" 2007 "France" 4203 3.6 81 1.96 61966193 1505321677069 "Europe" "Western Europe" NA
+"133" 2008 "France" 4853 3.5 81.1 1.97 62309529 1504107370104 "Europe" "Western Europe" NA
+"134" 2009 "France" 8042 3.5 81.2 1.98 62640901 1456772338299 "Europe" "Western Europe" NA
+"135" 2010 "France" 1564 3.5 81.4 1.98 62961136 1480999829195 "Europe" "Western Europe" NA
+"136" 2011 "France" 3089 3.5 81.6 1.98 63268405 1506143156817 "Europe" "Western Europe" NA
+"137" 2012 "France" 3840 3.5 81.6 1.98 63561798 NA "Europe" "Western Europe" NA
+"138" 2013 "France" 7606 3.6 81.7 1.98 63844529 NA "Europe" "Western Europe" NA
+"139" 2014 "France" 2923 3.6 81.7 1.98 64121249 NA "Europe" "Western Europe" NA
+"140" 2015 "France" 10760 3.5 81.8 1.98 64395345 NA "Europe" "Western Europe" NA
+"141" 2002 "Germany" NA 4.2 78.6 1.35 81699829 1915162776824 "Europe" "Western Europe" NA
+"142" 2003 "Germany" NA 4.1 78.8 1.35 81569481 1907972414293 "Europe" "Western Europe" NA
+"143" 2004 "Germany" 42880 4 79.2 1.35 81417791 1930126504253 "Europe" "Western Europe" NA
+"144" 2005 "Germany" 49315 3.9 79.4 1.35 81246801 1943341224580 "Europe" "Western Europe" NA
+"145" 2006 "Germany" 41952 3.8 79.7 1.36 81055904 2015244849889 "Europe" "Western Europe" NA
+"146" 2007 "Germany" 45226 3.7 79.9 1.36 80854515 2081124117403 "Europe" "Western Europe" NA
+"147" 2008 "Germany" 43582 3.6 80 1.37 80665906 2103666875608 "Europe" "Western Europe" NA
+"148" 2009 "Germany" 45497 3.6 80.1 1.38 80519685 1995811437644 "Europe" "Western Europe" NA
+"149" 2010 "Germany" 34000 3.5 80.3 1.39 80435307 2069464070055 "Europe" "Western Europe" NA
+"150" 2011 "Germany" 34730 3.4 80.5 1.4 80424665 2131456655119 "Europe" "Western Europe" NA
+"151" 2012 "Germany" 35974 3.3 80.6 1.41 80477952 NA "Europe" "Western Europe" NA
+"152" 2013 "Germany" 40928 3.3 80.7 1.42 80565861 NA "Europe" "Western Europe" NA
+"153" 2014 "Germany" 38029 3.2 80.7 1.43 80646262 NA "Europe" "Western Europe" NA
+"154" 2015 "Germany" 28453 3.1 80.8 1.44 80688545 NA "Europe" "Western Europe" NA
+"155" 2002 "Hungary" NA 8.6 72.6 1.29 10168101 50275293599 "Europe" "Eastern Europe" NA
+"156" 2003 "Hungary" NA 8 72.7 1.29 10141471 52211105383 "Europe" "Eastern Europe" NA
+"157" 2004 "Hungary" NA 7.5 72.9 1.29 10117213 54715769280 "Europe" "Eastern Europe" NA
+"158" 2005 "Hungary" 4471 7.2 73.1 1.3 10095964 56884939841 "Europe" "Eastern Europe" NA
+"159" 2006 "Hungary" 3295 6.8 73.3 1.31 10078461 59101837692 "Europe" "Eastern Europe" NA
+"160" 2007 "Hungary" 4343 6.5 73.6 1.32 10064138 59169627001 "Europe" "Eastern Europe" NA
+"161" 2008 "Hungary" 5430 6.2 73.9 1.33 10050699 59698693168 "Europe" "Eastern Europe" NA
+"162" 2009 "Hungary" 7913 5.9 74.3 1.35 10034951 55640003180 "Europe" "Eastern Europe" NA
+"163" 2010 "Hungary" 2754 5.7 74.6 1.36 10014633 56340039480 "Europe" "Eastern Europe" NA
+"164" 2011 "Hungary" 4159 5.5 75 1.38 9988846 57293181826 "Europe" "Eastern Europe" NA
+"165" 2012 "Hungary" 3532 5.4 75.5 1.4 9958334 NA "Europe" "Eastern Europe" NA
+"166" 2013 "Hungary" 4224 5.4 76.1 1.41 9924507 NA "Europe" "Eastern Europe" NA
+"167" 2014 "Hungary" 3994 5.3 76.5 1.43 9889540 NA "Europe" "Eastern Europe" NA
+"168" 2015 "Hungary" 6098 5.3 76.7 1.44 9855023 NA "Europe" "Eastern Europe" NA
+"169" 2002 "Japan" NA 3 81.6 1.3 126249509 4761764168337 "Asia" "Eastern Asia" NA
+"170" 2003 "Japan" NA 2.9 81.7 1.3 126523884 4842005214501 "Asia" "Eastern Asia" NA
+"171" 2004 "Japan" 4001 2.9 81.9 1.3 126773081 4956311889695 "Asia" "Eastern Asia" NA
+"172" 2005 "Japan" 9480 2.7 82 1.31 126978754 5020879159600 "Asia" "Eastern Asia" NA
+"173" 2006 "Japan" 5924 2.7 82.2 1.32 127136576 5105877836025 "Asia" "Eastern Asia" NA
+"174" 2007 "Japan" 7725 2.6 82.4 1.33 127250015 5217808186995 "Asia" "Eastern Asia" NA
+"175" 2008 "Japan" 4799 2.5 82.5 1.34 127317900 5163457616712 "Asia" "Eastern Asia" NA
+"176" 2009 "Japan" 21061 2.4 82.7 1.36 127340884 4878074528234 "Asia" "Eastern Asia" NA
+"177" 2010 "Japan" 2106 2.4 82.7 1.37 127319802 5094422657992 "Asia" "Eastern Asia" NA
+"178" 2011 "Japan" 7054 2.3 82.6 1.39 127252900 5058761701478 "Asia" "Eastern Asia" NA
+"179" 2012 "Japan" 15759 2.2 82.9 1.41 127139821 NA "Asia" "Eastern Asia" NA
+"180" 2013 "Japan" 24627 2.1 83 1.42 126984964 NA "Asia" "Eastern Asia" NA
+"181" 2014 "Japan" 33764 2.1 83.1 1.43 126794564 NA "Asia" "Eastern Asia" NA
+"182" 2015 "Japan" 24139 2 83.2 1.45 126573481 NA "Asia" "Eastern Asia" NA
+"183" 2002 "Mexico" NA 19.3 74.9 2.57 105578297 585312691416 "Americas" "Central America" NA
+"184" 2003 "Mexico" NA 18.2 74.9 2.52 106888418 593223360014 "Americas" "Central America" NA
+"185" 2004 "Mexico" 45978 17.4 75.2 2.48 108257822 617269309006 "Americas" "Central America" 3.832
+"186" 2005 "Mexico" 51011 16.7 75.1 2.45 109747906 637055457596 "Americas" "Central America" 4.704
+"187" 2006 "Mexico" 56569 16.2 75.4 2.41 111382857 669864782183 "Americas" "Central America" 4.838
+"188" 2007 "Mexico" 70979 15.8 75.6 2.38 113139374 691704027302 "Americas" "Central America" 7.668
+"189" 2008 "Mexico" 60574 15.4 75.4 2.35 114972821 699939486221 "Americas" "Central America" 5.946
+"190" 2009 "Mexico" 59050 15 75.3 2.31 116815612 656259080283 "Americas" "Central America" 14.228
+"191" 2010 "Mexico" 59504 14.4 75.4 2.28 118617542 692479257709 "Americas" "Central America" 7.848
+"192" 2011 "Mexico" 49524 13.8 75.7 2.25 120365271 719742387372 "Americas" "Central America" 4.62
+"193" 2012 "Mexico" 59964 13.1 75.7 2.22 122070963 NA "Americas" "Central America" 8.125
+"194" 2013 "Mexico" 63665 12.5 75.4 2.19 123740109 NA "Americas" "Central America" 11.882
+"195" 2014 "Mexico" 69945 11.9 75.6 2.16 125385833 NA "Americas" "Central America" 10.057
+"196" 2015 "Mexico" 43436 11.3 75.9 2.13 127017224 NA "Americas" "Central America" 4.827
+"197" 2002 "Netherlands" NA 4.9 78.5 1.73 16076427 392790134494 "Europe" "Western Europe" NA
+"198" 2003 "Netherlands" NA 4.7 78.7 1.75 16167421 394108353879 "Europe" "Western Europe" NA
+"199" 2004 "Netherlands" 1014 4.6 79.1 1.73 16253397 402922644615 "Europe" "Western Europe" NA
+"200" 2005 "Netherlands" 1779 4.5 79.6 1.71 16331646 411168323101 "Europe" "Western Europe" NA
+"201" 2006 "Netherlands" 1497 4.3 79.9 1.72 16401105 425124149957 "Europe" "Western Europe" NA
+"202" 2007 "Netherlands" 1607 4.2 80.2 1.72 16463031 441791696641 "Europe" "Western Europe" NA
+"203" 2008 "Netherlands" 1801 4 80.3 1.77 16519862 449761878488 "Europe" "Western Europe" NA
+"204" 2009 "Netherlands" 3062 3.8 80.6 1.79 16575173 433855151011 "Europe" "Western Europe" NA
+"205" 2010 "Netherlands" 1145 3.7 80.8 1.8 16631571 441185443862 "Europe" "Western Europe" NA
+"206" 2011 "Netherlands" 1627 3.6 80.9 1.76 16689863 446362217923 "Europe" "Western Europe" NA
+"207" 2012 "Netherlands" 2023 3.5 81 1.76 16749318 NA "Europe" "Western Europe" NA
+"208" 2013 "Netherlands" 2721 3.3 81.2 1.77 16809157 NA "Europe" "Western Europe" NA
+"209" 2014 "Netherlands" 1680 3.3 81.3 1.78 16868020 NA "Europe" "Western Europe" NA
+"210" 2015 "Netherlands" 1666 3.2 81.3 1.78 16924929 NA "Europe" "Western Europe" NA
+"211" 2002 "New.Zealand" NA NA NA NA NA NA NA NA NA
+"212" 2003 "New.Zealand" NA NA NA NA NA NA NA NA NA
+"213" 2004 "New.Zealand" NA NA NA NA NA NA NA NA NA
+"214" 2005 "New.Zealand" NA NA NA NA NA NA NA NA NA
+"215" 2006 "New.Zealand" 1492 NA NA NA NA NA NA NA NA
+"216" 2007 "New.Zealand" 1398 NA NA NA NA NA NA NA NA
+"217" 2008 "New.Zealand" 1883 NA NA NA NA NA NA NA NA
+"218" 2009 "New.Zealand" 2644 NA NA NA NA NA NA NA NA
+"219" 2010 "New.Zealand" 1742 NA NA NA NA NA NA NA NA
+"220" 2011 "New.Zealand" 1674 NA NA NA NA NA NA NA NA
+"221" 2012 "New.Zealand" 2373 NA NA NA NA NA NA NA NA
+"222" 2013 "New.Zealand" 2260 NA NA NA NA NA NA NA NA
+"223" 2014 "New.Zealand" 3322 NA NA NA NA NA NA NA NA
+"224" 2015 "New.Zealand" 807 NA NA NA NA NA NA NA NA
+"225" 2002 "Norway" NA 3.6 79.1 1.75 4537240 174215767564 "Europe" "Northern Europe" NA
+"226" 2003 "Norway" NA 3.5 79.5 1.8 4560947 175929063478 "Europe" "Northern Europe" NA
+"227" 2004 "Norway" NA 3.4 79.8 1.83 4589241 182897667361 "Europe" "Northern Europe" NA
+"228" 2005 "Norway" 1904 3.2 80.2 1.84 4624388 187632770146 "Europe" "Northern Europe" NA
+"229" 2006 "Norway" 1474 3.1 80.4 1.9 4667105 192233391607 "Europe" "Northern Europe" NA
+"230" 2007 "Norway" 2231 3 80.6 1.9 4716584 197333337247 "Europe" "Northern Europe" NA
+"231" 2008 "Norway" 2271 2.9 80.8 1.96 4771633 197402589382 "Europe" "Northern Europe" NA
+"232" 2009 "Norway" 6877 2.7 80.8 1.98 4830371 194111628292 "Europe" "Northern Europe" NA
+"233" 2010 "Norway" 3338 2.6 81.1 1.95 4891251 195424832685 "Europe" "Northern Europe" NA
+"234" 2011 "Norway" 4852 2.5 81.1 1.88 4953945 198252580322 "Europe" "Northern Europe" NA
+"235" 2012 "Norway" 4606 2.3 81.6 1.85 5018367 NA "Europe" "Northern Europe" NA
+"236" 2013 "Norway" 4654 2.3 81.6 1.93 5083450 NA "Europe" "Northern Europe" NA
+"237" 2014 "Norway" 4072 2.2 82 1.93 5147970 NA "Europe" "Northern Europe" NA
+"238" 2015 "Norway" 4094 2 82 1.93 5210967 NA "Europe" "Northern Europe" NA
+"239" 2002 "Paraguay" NA 26.1 74.1 3.51 5508615 7213731474 "Americas" "South America" NA
+"240" 2003 "Paraguay" NA 25.3 74.1 3.43 5607948 7490710349 "Americas" "South America" NA
+"241" 2004 "Paraguay" NA 24.6 73.8 3.35 5703742 7800472023 "Americas" "South America" NA
+"242" 2005 "Paraguay" NA 23.8 74 3.27 5795493 8023446451 "Americas" "South America" NA
+"243" 2006 "Paraguay" 16478 23.1 74 3.19 5882797 8371707752 "Americas" "South America" NA
+"244" 2007 "Paraguay" 16369 22.4 74 3.12 5966160 8937744399 "Americas" "South America" NA
+"245" 2008 "Paraguay" 14820 21.7 74 3.06 6047131 9458532785 "Americas" "South America" NA
+"246" 2009 "Paraguay" 13894 21 74 3.01 6127847 9094701457 "Americas" "South America" NA
+"247" 2010 "Paraguay" 10017 20.4 74 2.97 6209877 10463076859 "Americas" "South America" NA
+"248" 2011 "Paraguay" 9347 19.8 74 2.93 6293763 10886238238 "Americas" "South America" NA
+"249" 2012 "Paraguay" 9010 19.2 74.1 2.9 6379162 NA "Americas" "South America" NA
+"250" 2013 "Paraguay" 11755 18.6 74.1 2.86 6465669 NA "Americas" "South America" NA
+"251" 2014 "Paraguay" 13242 18.1 74.3 2.83 6552518 NA "Americas" "South America" NA
+"252" 2015 "Paraguay" 9894 17.5 74.4 2.8 6639123 NA "Americas" "South America" NA
+"253" 2002 "Peru" 329 25.7 75.7 2.82 26601463 56085932802 "Americas" "South America" NA
+"254" 2003 "Peru" 20441 24.1 76.2 2.77 26937737 58347474126 "Americas" "South America" NA
+"255" 2004 "Peru" 17143 22.6 76.7 2.73 27273188 61251271118 "Americas" "South America" NA
+"256" 2005 "Peru" 16040 21.3 77.2 2.69 27610406 65432704696 "Americas" "South America" NA
+"257" 2006 "Peru" 14994 20.1 77.7 2.65 27949958 70497520780 "Americas" "South America" NA
+"258" 2007 "Peru" 13770 19 77.9 2.61 28292768 76775759558 "Americas" "South America" NA
+"259" 2008 "Peru" 11946 18 78.2 2.58 28642048 84302372402 "Americas" "South America" NA
+"260" 2009 "Peru" 10432 17.1 78.2 2.55 29001563 85006410418 "Americas" "South America" NA
+"261" 2010 "Peru" 8541 16.3 78.4 2.51 29373644 92506872121 "Americas" "South America" NA
+"262" 2011 "Peru" 7053 15.6 78.5 2.48 29759891 98901255440 "Americas" "South America" NA
+"263" 2012 "Peru" 6769 14.9 78.7 2.45 30158768 NA "Americas" "South America" NA
+"264" 2013 "Peru" 6777 14.2 79.1 2.42 30565461 NA "Americas" "South America" NA
+"265" 2014 "Peru" 6555 13.6 79.3 2.39 30973148 NA "Americas" "South America" NA
+"266" 2015 "Peru" 4020 13.1 79.5 2.36 31376670 NA "Americas" "South America" NA
+"267" 2002 "Poland" NA 7.3 74.6 1.28 38454823 175842681117 "Europe" "Eastern Europe" NA
+"268" 2003 "Poland" NA 7 74.9 1.27 38451227 182642797860 "Europe" "Eastern Europe" NA
+"269" 2004 "Poland" NA 6.7 75 1.27 38454520 192404689711 "Europe" "Eastern Europe" NA
+"270" 2005 "Poland" 4886 6.6 75.1 1.28 38463514 199364063181 "Europe" "Eastern Europe" NA
+"271" 2006 "Poland" 2521 6.3 75.2 1.29 38478763 211779433442 "Europe" "Eastern Europe" NA
+"272" 2007 "Poland" 2754 6 75.2 1.31 38500356 226149246712 "Europe" "Eastern Europe" NA
+"273" 2008 "Poland" 2617 5.8 75.4 1.33 38525752 237742898868 "Europe" "Eastern Europe" NA
+"274" 2009 "Poland" 5521 5.3 75.7 1.35 38551489 241612593969 "Europe" "Eastern Europe" NA
+"275" 2010 "Poland" 1264 5 76.2 1.37 38574682 251030838904 "Europe" "Eastern Europe" NA
+"276" 2011 "Poland" 2377 4.7 76.5 1.39 38594217 261950140322 "Europe" "Eastern Europe" NA
+"277" 2012 "Poland" 1670 4.6 76.7 1.4 38609486 NA "Europe" "Eastern Europe" NA
+"278" 2013 "Poland" 2702 4.5 77.3 1.42 38618698 NA "Europe" "Eastern Europe" NA
+"279" 2014 "Poland" 1536 4.5 77.4 1.43 38619974 NA "Europe" "Eastern Europe" NA
+"280" 2015 "Poland" 1956 4.5 77.6 1.44 38611794 NA "Europe" "Eastern Europe" NA
+"281" 2002 "Romania" NA 21.6 71.2 1.27 21851988 41162034208 "Europe" "Eastern Europe" NA
+"282" 2003 "Romania" NA 20.6 71.6 1.28 21722664 43302459253 "Europe" "Eastern Europe" NA
+"283" 2004 "Romania" 37393 19.5 72 1.29 21578318 46939862239 "Europe" "Eastern Europe" NA
+"284" 2005 "Romania" 40284 18.2 72.4 1.3 21407619 48898332853 "Europe" "Eastern Europe" NA
+"285" 2006 "Romania" 40713 16.7 72.8 1.31 21205977 52761301149 "Europe" "Eastern Europe" NA
+"286" 2007 "Romania" 40248 15.3 73.3 1.33 20979708 55926979218 "Europe" "Eastern Europe" NA
+"287" 2008 "Romania" 39262 14 73.2 1.34 20741669 61198545647 "Europe" "Eastern Europe" NA
+"288" 2009 "Romania" 41179 13 73.3 1.36 20510263 55996669267 "Europe" "Eastern Europe" NA
+"289" 2010 "Romania" 32246 12.1 73.7 1.37 20298838 56527456853 "Europe" "Eastern Europe" NA
+"290" 2011 "Romania" 34686 11.5 74.5 1.39 20111664 56320357839 "Europe" "Eastern Europe" NA
+"291" 2012 "Romania" 32288 10.9 74.7 1.4 19944954 NA "Europe" "Eastern Europe" NA
+"292" 2013 "Romania" 33899 10.5 74.9 1.42 19794163 NA "Europe" "Eastern Europe" NA
+"293" 2014 "Romania" 34484 10.1 75.1 1.43 19651554 NA "Europe" "Eastern Europe" NA
+"294" 2015 "Romania" 23679 9.7 75.2 1.45 19511324 NA "Europe" "Eastern Europe" NA
+"295" 2002 "Russia" NA 17.7 64.9 1.29 145195521 285879843583 "Europe" "Eastern Europe" NA
+"296" 2003 "Russia" NA 16.6 64.7 1.33 144583147 306737220532 "Europe" "Eastern Europe" NA
+"297" 2004 "Russia" NA 15.4 65.1 1.34 144043914 328748527632 "Europe" "Eastern Europe" NA
+"298" 2005 "Russia" 13596 14.4 65.1 1.29 143622566 349710148603 "Europe" "Eastern Europe" NA
+"299" 2006 "Russia" 15693 13.3 66.7 1.3 143338407 378223527671 "Europe" "Eastern Europe" NA
+"300" 2007 "Russia" 16590 12.4 67.7 1.41 143180249 410505209128 "Europe" "Eastern Europe" NA
+"301" 2008 "Russia" 20976 11.6 67.9 1.49 143123163 432048331750 "Europe" "Eastern Europe" NA
+"302" 2009 "Russia" 29361 10.9 68.8 1.54 143126660 398209755704 "Europe" "Eastern Europe" NA
+"303" 2010 "Russia" 23322 10.3 68.9 1.57 143158099 415332775199 "Europe" "Eastern Europe" NA
+"304" 2011 "Russia" 26352 9.8 69.8 1.58 143211476 433192084533 "Europe" "Eastern Europe" NA
+"305" 2012 "Russia" 27213 9.3 70.4 1.59 143287536 NA "Europe" "Eastern Europe" NA
+"306" 2013 "Russia" 33134 8.9 70.8 1.6 143367341 NA "Europe" "Eastern Europe" NA
+"307" 2014 "Russia" 30966 8.5 70.9 1.6 143429435 NA "Europe" "Eastern Europe" NA
+"308" 2015 "Russia" 21447 8.2 71 1.61 143456918 NA "Europe" "Eastern Europe" NA
+"309" 2002 "South.Africa" NA NA NA NA NA NA NA NA NA
+"310" 2003 "South.Africa" NA NA NA NA NA NA NA NA NA
+"311" 2004 "South.Africa" NA NA NA NA NA NA NA NA NA
+"312" 2005 "South.Africa" NA NA NA NA NA NA NA NA NA
+"313" 2006 "South.Africa" NA NA NA NA NA NA NA NA NA
+"314" 2007 "South.Africa" 135522 NA NA NA NA NA NA NA NA
+"315" 2008 "South.Africa" 135377 NA NA NA NA NA NA NA NA
+"316" 2009 "South.Africa" 150344 NA NA NA NA NA NA NA NA
+"317" 2010 "South.Africa" 129539 NA NA NA NA NA NA NA NA
+"318" 2011 "South.Africa" 129150 NA NA NA NA NA NA NA NA
+"319" 2012 "South.Africa" 136519 NA NA NA NA NA NA NA NA
+"320" 2013 "South.Africa" 140671 NA NA NA NA NA NA NA NA
+"321" 2014 "South.Africa" 155577 NA NA NA NA NA NA NA NA
+"322" 2015 "South.Africa" 98940 NA NA NA NA NA NA NA NA
+"323" 2002 "Spain" NA 5.2 79.6 1.27 41815486 617946434914 "Europe" "Southern Europe" NA
+"324" 2003 "Spain" NA 5.1 79.6 1.3 42475265 637037529120 "Europe" "Southern Europe" NA
+"325" 2004 "Spain" 1437 5 80 1.33 43167276 657800500119 "Europe" "Southern Europe" NA
+"326" 2005 "Spain" 3278 4.8 80.3 1.35 43854761 681373742384 "Europe" "Southern Europe" NA
+"327" 2006 "Spain" 2061 4.6 80.7 1.38 44537926 709148044936 "Europe" "Southern Europe" NA
+"328" 2007 "Spain" 3246 4.4 80.8 1.4 45209538 733820614902 "Europe" "Southern Europe" NA
+"329" 2008 "Spain" 2209 4.2 81.1 1.42 45817016 740341770865 "Europe" "Southern Europe" NA
+"330" 2009 "Spain" 4011 4.1 81.5 1.44 46295191 712647416141 "Europe" "Southern Europe" NA
+"331" 2010 "Spain" 727 3.9 81.8 1.46 46601492 712152291146 "Europe" "Southern Europe" NA
+"332" 2011 "Spain" 1224 3.8 82 1.47 46708366 717193989759 "Europe" "Southern Europe" NA
+"333" 2012 "Spain" 1938 3.7 82.2 1.49 46637082 NA "Europe" "Southern Europe" NA
+"334" 2013 "Spain" 2769 3.7 82.5 1.51 46455163 NA "Europe" "Southern Europe" NA
+"335" 2014 "Spain" 3010 3.6 82.5 1.52 46259716 NA "Europe" "Southern Europe" NA
+"336" 2015 "Spain" 4863 3.5 82.6 1.53 46121699 NA "Europe" "Southern Europe" NA
+"337" 2002 "Sweden" NA 3.3 80 1.67 8911899 256599359725 "Europe" "Northern Europe" NA
+"338" 2003 "Sweden" NA 3.2 80.2 1.73 8942926 262592755597 "Europe" "Northern Europe" NA
+"339" 2004 "Sweden" NA 3.1 80.2 1.77 8982282 273713195657 "Europe" "Northern Europe" NA
+"340" 2005 "Sweden" NA 3 80.6 1.79 9030163 282364681257 "Europe" "Northern Europe" NA
+"341" 2006 "Sweden" 153 2.8 80.8 1.87 9087251 294498396948 "Europe" "Northern Europe" NA
+"342" 2007 "Sweden" 179 2.7 80.9 1.89 9153316 304258796391 "Europe" "Northern Europe" NA
+"343" 2008 "Sweden" 169 2.6 81.1 1.92 9226333 302392423838 "Europe" "Northern Europe" NA
+"344" 2009 "Sweden" 474 2.5 81.2 1.94 9303432 287188905096 "Europe" "Northern Europe" NA
+"345" 2010 "Sweden" 106 2.5 81.6 1.99 9382297 304858727345 "Europe" "Northern Europe" NA
+"346" 2011 "Sweden" 201 2.4 81.7 1.9 9462352 316798617621 "Europe" "Northern Europe" NA
+"347" 2012 "Sweden" 368 2.4 81.8 1.91 9543457 NA "Europe" "Northern Europe" NA
+"348" 2013 "Sweden" 556 2.4 81.9 1.93 9624247 NA "Europe" "Northern Europe" NA
+"349" 2014 "Sweden" 266 2.4 82.1 1.93 9703247 NA "Europe" "Northern Europe" NA
+"350" 2015 "Sweden" 328 2.4 82.1 1.93 9779426 NA "Europe" "Northern Europe" NA
+"351" 2002 "Switzerland" NA 4.6 80.4 1.42 7242034 253918245870 "Europe" "Western Europe" NA
+"352" 2003 "Switzerland" NA 4.4 80.6 1.42 7289901 253416009483 "Europe" "Western Europe" NA
+"353" 2004 "Switzerland" 1600 4.4 81 1.42 7345299 259834269511 "Europe" "Western Europe" NA
+"354" 2005 "Switzerland" 3849 4.3 81.3 1.43 7408608 266695570076 "Europe" "Western Europe" NA
+"355" 2006 "Switzerland" 1781 4.2 81.5 1.44 7480317 276377653102 "Europe" "Western Europe" NA
+"356" 2007 "Switzerland" 2999 4.1 81.7 1.46 7560141 286450319616 "Europe" "Western Europe" NA
+"357" 2008 "Switzerland" 3345 4 82 1.47 7646542 292452808698 "Europe" "Western Europe" NA
+"358" 2009 "Switzerland" 5836 3.9 82 1.49 7737316 286960456156 "Europe" "Western Europe" NA
+"359" 2010 "Switzerland" 1044 3.9 82.3 1.5 7830534 294748691280 "Europe" "Western Europe" NA
+"360" 2011 "Switzerland" 2314 3.8 82.6 1.51 7925813 300938413797 "Europe" "Western Europe" NA
+"361" 2012 "Switzerland" 2944 3.7 82.7 1.52 8022628 NA "Europe" "Western Europe" NA
+"362" 2013 "Switzerland" 6379 3.6 82.8 1.53 8118719 NA "Europe" "Western Europe" NA
+"363" 2014 "Switzerland" 3870 3.5 82.9 1.54 8211383 NA "Europe" "Western Europe" NA
+"364" 2015 "Switzerland" 6390 3.4 83 1.55 8298663 NA "Europe" "Western Europe" NA
+"365" 2002 "Ukraine" NA 14.3 67.5 1.15 47890647 35912742450 "Europe" "Eastern Europe" NA
+"366" 2003 "Ukraine" NA 13.6 67.7 1.18 47493771 39288540241 "Europe" "Eastern Europe" NA
+"367" 2004 "Ukraine" NA 13 67.5 1.21 47127110 44042453610 "Europe" "Eastern Europe" NA
+"368" 2005 "Ukraine" NA 12.5 67.1 1.26 46795313 45231599857 "Europe" "Eastern Europe" NA
+"369" 2006 "Ukraine" 17646 12 67.9 1.3 46502718 48533506647 "Europe" "Eastern Europe" NA
+"370" 2007 "Ukraine" 21139 11.6 67.6 1.35 46249196 52367654045 "Europe" "Eastern Europe" NA
+"371" 2008 "Ukraine" 20457 11.1 67.8 1.38 46028476 53572110088 "Europe" "Eastern Europe" NA
+"372" 2009 "Ukraine" 25627 10.6 69.6 1.41 45830711 45643437795 "Europe" "Eastern Europe" NA
+"373" 2010 "Ukraine" 20098 10.1 70.5 1.44 45647497 47514818744 "Europe" "Eastern Europe" NA
+"374" 2011 "Ukraine" 19755 9.6 71.1 1.45 45477690 49985589319 "Europe" "Eastern Europe" NA
+"375" 2012 "Ukraine" 19375 9.1 71.2 1.46 45319949 NA "Europe" "Eastern Europe" NA
+"376" 2013 "Ukraine" 21955 8.6 71.3 1.47 45165211 NA "Europe" "Eastern Europe" NA
+"377" 2014 "Ukraine" 20112 8.1 71.3 1.48 45002497 NA "Europe" "Eastern Europe" NA
+"378" 2015 "Ukraine" 12101 7.7 71.5 1.49 44823765 NA "Europe" "Eastern Europe" NA
+"379" 2002 "United.States" NA NA NA NA NA NA NA NA NA
+"380" 2003 "United.States" NA NA NA NA NA NA NA NA NA
+"381" 2004 "United.States" 58593 NA NA NA NA NA NA NA NA
+"382" 2005 "United.States" 83959 NA NA NA NA NA NA NA NA
+"383" 2006 "United.States" 77657 NA NA NA NA NA NA NA NA
+"384" 2007 "United.States" 73300 NA NA NA NA NA NA NA NA
+"385" 2008 "United.States" 92943 NA NA NA NA NA NA NA NA
+"386" 2009 "United.States" 139394 NA NA NA NA NA NA NA NA
+"387" 2010 "United.States" 73160 NA NA NA NA NA NA NA NA
+"388" 2011 "United.States" 86415 NA NA NA NA NA NA NA NA
+"389" 2012 "United.States" 122918 NA NA NA NA NA NA NA NA
+"390" 2013 "United.States" 130196 NA NA NA NA NA NA NA NA
+"391" 2014 "United.States" 99848 NA NA NA NA NA NA NA NA
+"392" 2015 "United.States" 61295 NA NA NA NA NA NA NA NA
+"393" 2002 "Uruguay" NA 13.7 75 2.21 3327770 20249041605 "Americas" "South America" NA
+"394" 2003 "Uruguay" NA 13.3 75 2.19 3325637 20412103881 "Americas" "South America" NA
+"395" 2004 "Uruguay" 7555 12.8 75.3 2.17 3324096 21433558291 "Americas" "South America" NA
+"396" 2005 "Uruguay" 6647 12.4 75.5 2.16 3325608 23032530046 "Americas" "South America" NA
+"397" 2006 "Uruguay" 6776 12 75.7 2.14 3331041 23976536117 "Americas" "South America" NA
+"398" 2007 "Uruguay" 7430 11.5 75.7 2.12 3339750 25544963828 "Americas" "South America" NA
+"399" 2008 "Uruguay" 6339 11.2 76 2.11 3350832 27378107386 "Americas" "South America" NA
+"400" 2009 "Uruguay" 5770 11 76.2 2.09 3362761 28040043322 "Americas" "South America" NA
+"401" 2010 "Uruguay" 5087 10.6 76.2 2.08 3374414 30534154733 "Americas" "South America" NA
+"402" 2011 "Uruguay" 4686 10.3 76.3 2.07 3385610 32274699322 "Americas" "South America" NA
+"403" 2012 "Uruguay" 5070 10 76.3 2.06 3396753 NA "Americas" "South America" NA
+"404" 2013 "Uruguay" 5005 9.5 76.4 2.05 3407969 NA "Americas" "South America" NA
+"405" 2014 "Uruguay" 5390 9.1 76.6 2.04 3419516 NA "Americas" "South America" NA
+"406" 2015 "Uruguay" 4195 8.7 76.8 2.03 3431555 NA "Americas" "South America" NA
